@@ -5,7 +5,7 @@ import asyncio
 
 # Настройки
 BOT_TOKEN = '8724423809:AAEeLx9F4Xku8AAHqrRYCl-UWqrsc4TTRME'  # Ваш токен
-SOURCE_GROUP_ID = -5272037357  # ID группы откуда пересылаем (замените на свой)
+SOURCE_GROUP_ID = -1003321868745  # ID группы откуда пересылаем (замените на свой)
 TARGET_CHANNEL_ID = -1003079468911  # ID канала куда пересылаем (замените на свой)
 OWNER_USERNAME = 'piyuqw'  # Юзернейм владельца (без @)
 
